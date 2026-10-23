@@ -4,7 +4,7 @@ schemaVersion: 2.0.0
 id: 01a168d1-e222-7236-b208-776d04903c69
 kind: page
 title: About
-description: The purpose and editorial principles behind this publication.
+description: About AI Alfie .
 language: en-US
 authors:
 - 01a168d1-e221-7b53-b56a-fe2eadcbb06c
@@ -16,16 +16,10 @@ slug: about
 redirects: []
 extensions: {}
 ---
+Alfie Marsh publishes videos on YouTube as [AI Alfie ](https://www.youtube.com/@AlfieMarsh/videos).
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+The articles on this site are written versions of those videos, each one linked to the original.
 
-## Editorial principles
-
-- Prefer evidence to certainty.
-- Make the useful detail easy to find.
-- Revise in public when the facts change.
-- Keep ownership of the archive and its history.
-
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+<!-- galascribe:demo-notice -->
+**This is a preview.** Galascribe built this site from Alfie Marsh's videos to show what a written version of the channel could look like. Alfie hasn't claimed it yet, and it is hidden from search engines until then. Questions: support@galascribe.com.
+<!-- /galascribe:demo-notice -->
