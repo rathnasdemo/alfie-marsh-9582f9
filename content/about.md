@@ -1,17 +1,17 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000011
+schemaVersion: 2.0.0
+id: 01a168d1-e222-7236-b208-776d04903c69
 kind: page
 title: About
 description: The purpose and editorial principles behind this publication.
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a168d1-e221-7b53-b56a-fe2eadcbb06c
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-10-23T12:52:27.809Z'
+publishedAt: '2026-10-23T12:52:27.809Z'
 slug: about
 redirects: []
 extensions: {}
